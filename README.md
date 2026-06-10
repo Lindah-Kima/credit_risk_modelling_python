@@ -2,7 +2,7 @@
 
 End-to-end credit risk modeling framework covering Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), credit scorecard development, and Expected Loss estimation using Python and Basel II risk management principles.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/lindah-kima/) | [Portfolio](https://www.datascienceportfol.io/lindahkima2) | [Medium](https://github.com/Lindah-Kima)
+[LinkedIn](https://www.linkedin.com/in/lindah-kima/) | [Portfolio](https://www.datascienceportfol.io/lindahkima2) | [Medium](https://github.com/Lindah-Kima)
 ---
 
 ## Overview
@@ -95,7 +95,7 @@ Successfully developed an end-to-end credit risk framework capable of estimating
 ## Repository Structure
 
 ```text
-banking-credit-risk-analytics/
+credit_risk_modelling_python/
 │
 ├── data/
 ├── notebooks/
